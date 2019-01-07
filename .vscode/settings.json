@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3-32",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~2"
+}
